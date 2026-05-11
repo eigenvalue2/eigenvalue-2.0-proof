@@ -1,0 +1,16 @@
+Aleph Masoretic Recursion
+Dominant eigenvalue: 2.8019377358048385
+
+Generation | Total Letters
+-----------|--------------
+Gen 0: 1
+Gen 1: 3
+Gen 2: 8
+Gen 3: 20
+Gen 4: 48
+Gen 5: 113
+Gen 6: 265
+Gen 7: 626
+Gen 8: 1501
+Gen 9: 3670
+Gen 10: 9168

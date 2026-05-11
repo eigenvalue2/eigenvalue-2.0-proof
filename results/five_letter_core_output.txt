@@ -1,0 +1,13 @@
+Dominant eigenvalue: 2.0
+
+Generation | Total Letters
+-----------|--------------
+Gen 0: 5
+Gen 1: 11
+Gen 2: 25
+Gen 3: 56
+Gen 4: 124
+Gen 5: 272
+Gen 6: 592
+Gen 7: 1280
+Gen 8: 2752
